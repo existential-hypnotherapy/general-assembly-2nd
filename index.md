@@ -1,36 +1,31 @@
-## 台灣存在催眠治療學會 第二屆會員大會 
-You can use the [editor on GitHub](https://github.com/existential-hypnotherapy/general-assembly-2nd/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 大會報告
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+各位長久以來支持著我們的會員們，我們第二屆會員大會要來囉～在理監事們的精心籌備之下，將於 3/11 舉辦會員大會！屆時會向各位報告與分享我們往後的訓練課程、工作坊、讀書會、演講等規劃，大家聚一聚，也聽聽會員們的期待。同時，我們也終於要開始收會費了！
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 時間：2017/03/11 13:30~17:00
+- 地點：台北市復興南路二段45號10樓（東華台北辦事處）
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## 我要報名會員大會
+報名連結
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## 我要繳會費
 
-[Link](url) and ![Image](src)
-```
+#### 會費相關規定
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### 繳費方式
+1. 線上/ATM轉帳：[台銀繳費網址](https://sap.bot.com.tw/sap/sap1030s?MID=S00120)
+2. 會員大會當天，現場繳納
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/existential-hypnotherapy/general-assembly-2nd/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 會議大綱
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+## 聯絡方式
+如有任何問題，可以e-mail來：existential.hypnotherapy@gmail.com
+
