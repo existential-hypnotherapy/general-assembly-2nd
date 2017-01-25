@@ -1,5 +1,4 @@
 theme: jekyll-theme-dinky
 title: [台灣存在催眠治療學會]
-gem "github-pages", group: :jekyll_plugins
 description: [第二屆會員大會]
 show_downloads: ["false"]
